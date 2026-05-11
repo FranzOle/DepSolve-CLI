@@ -1,0 +1,39 @@
+# =========================
+# DepSolve CLI Requirements
+# =========================
+
+# CLI Framework
+click==8.1.7
+
+# Terminal UI / Pretty Output
+rich==13.7.1
+
+# Database ORM
+SQLAlchemy==2.0.36
+
+# MySQL Driver
+PyMySQL==1.1.1
+
+# Environment Variable Loader
+python-dotenv==1.0.1
+
+# Data Validation & Utilities
+packaging==24.1
+
+# Graph Visualization / Optional Graph Utilities
+networkx==3.3
+
+# Testing
+pytest==8.3.3
+
+# Code Formatter
+black==24.10.0
+
+# Linter
+flake8==7.1.1
+
+# Type Checking
+mypy==1.13.0
+
+# Logging Enhancement
+loguru==0.7.2
